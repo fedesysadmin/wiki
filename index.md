@@ -1,7 +1,3 @@
----
-title: Federico Coppola
----
-
 # Welcome to My Homepage
 
 Hello! I'm **Federico Coppola**, a passionate system administrator and open-source enthusiast.
