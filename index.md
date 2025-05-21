@@ -4,7 +4,7 @@ Hello! I'm **Federico Coppola**, a passionate system administrator and open-sour
 
 ## About Me
 
-I am an Italian guy born in Turin, Northern Italy.
+I am an Italian guy born in Turin, Northern Italy.  
 I am currently a system administrator and enjoy troubleshooting computer issues.
 
 ## Contact
