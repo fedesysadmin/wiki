@@ -7,10 +7,16 @@ Hello! I'm **Federico Coppola**, a passionate system administrator and open-sour
 I am an Italian guy born in Turin, Northern Italy.  
 I am currently a system administrator and enjoy troubleshooting computer issues.
 
-## Contact
+## Navigation menu 
+- Helpdesk
+- Servers
+- Networking
+- Security and Firewalls
+- Monitoring
 
-You can reach me at [your.email@example.com](mailto:your.email@example.com).
+[a relative link](another-page.md)
 
-![Your Photo](https://example.com/your-photo.jpg)
+[You can reach me at [your.email@example.com](mailto:your.email@example.com).]:
+[#![Your Photo](https://example.com/your-photo.jpg)]:
 
 
